@@ -1,2 +1,2 @@
 # Tensorflow_Basics
-Training on basic keras datasets
+Training with the MNIST keras dataset
